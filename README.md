@@ -12,6 +12,7 @@ In addition, a future scope of this project is to develop an average calculating
 This feature would help to calculate the average of all the reviews given by the panel members, and provide a comprehensive view of the overall performance of the Capstone projects.
 
 ###Coclusion###
+
 A Capstone Project Database System has been developed using Vaadin framework and MVC architecture that efficiently manages all information related to the Capstone project in a well-organized manner. 
 
 This system can provide great value to the institution by simplifying the Capstone project management process for both professors and students.
